@@ -15,7 +15,7 @@ Passionate **web developer** and **problem solver** with latest tools, driven by
 **Others:** Git/GitHub, REST APIs, MySQL
 
 ### Open Source
-- Enjoys contributing to open-source and improving developer productivity through useful tools.  
+- Enjoys contributing to open-source projects and making meaningful contributions that truly excite me  
 ---
 
 ### 📊 GitHub Stats
