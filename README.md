@@ -4,7 +4,7 @@
 
 ### I'm Harsh Kumar 👋  
 
-A passionate **web developer** and **problem solver** with latest tools, driven by curiosity to build **scalable platforms** and **high-performance systems** that make a real impact.
+Passionate **web developer** and **problem solver** with latest tools, driven by curiosity to build **scalable platforms** and **high-performance systems** that make a real impact.
 
 ---
 
