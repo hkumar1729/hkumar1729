@@ -15,12 +15,22 @@ Passionate **web developer** and **problem solver** with latest tools, driven by
 **Others:** Git/GitHub, REST APIs, MySQL
 
 ### Open Source
-- Enjoys contributing to open-source projects and making meaningful contributions that truly excite me  
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hkumar1729&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=3B82F6&text_color=F8FAFC"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hkumar1729&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=F8FAFC"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hkumar1729&theme=tokyonight&hide_border=true&background=0D1117&stroke=22C55E&ring=3B82F6&fire=22C55E&currStreakLabel=F8FAFC&sideLabels=F8FAFC&currStreakNum=22C55E&sideNums=3B82F6" alt="GitHub Streak" />
+</div>
+
 ---
 
-### 📊 GitHub Stats
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkumar1729&show_icons=true&theme=gotham&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkumar1729&layout=compact&theme=gotham)  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hkumar1729&theme=tokyonight" />
+</p>
 
 ---
 
