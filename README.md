@@ -25,10 +25,6 @@ Enjoys contributing to open-source projects and making meaningful contributions 
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hkumar1729&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=F8FAFC"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hkumar1729&theme=tokyonight&hide_border=true&background=0D1117&stroke=22C55E&ring=3B82F6&fire=22C55E&currStreakLabel=F8FAFC&sideLabels=F8FAFC&currStreakNum=22C55E&sideNums=3B82F6" alt="GitHub Streak" />
-</div>
-
 ---
 
 <p align="center">
