@@ -1,3 +1,7 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20There!&height=100&section=header"/>
 </p>
@@ -21,14 +25,14 @@ Enjoys contributing to open-source projects and making meaningful contributions 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hkumar1729&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=3B82F6&text_color=F8FAFC"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hkumar1729&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=F8FAFC"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hkumar1729&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F&text_color=FFFFFF&ring_color=ff3068&border_radius=10&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkumar1729&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=F0DB4F&text_color=FFFFFF&border_radius=10&hide_border=true"/>
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hkumar1729&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=juletopi&theme=dark&hide_border=true&background=0E1118&ring=E73737&fire=EAA532&currStreakLabel=EAA532&currStreakNum=FFFFFF&disable_animations=true" width="550" alt="hkumar1729-stats" title="Streak Stats" />
 </p>
 
 ---
